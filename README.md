@@ -1,3 +1,7 @@
+
+My name is Fernando , and I love learning software development using this great course frmo UDEMY! 
+
+
 # I-Am-Poor
 Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - I Am Poor App
 
